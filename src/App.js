@@ -629,7 +629,7 @@ const [streamProgress, setStreamProgress] = useState(0);
                         <td><h5>{imageData.size}</h5></td>
                       </tr>
                       <tr>
-                        <td><h5>EXTENSION : </h5></td>
+                        <td><h5>Type : </h5></td>
                         <td><h5>{imageData.extension}</h5></td>
                       </tr>
                     </tbody>
